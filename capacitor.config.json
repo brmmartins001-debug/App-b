@@ -1,0 +1,7 @@
+{
+  "appId": "com.riftrunner.game",
+  "appName": "Rift Runner",
+  "webDir": "www",
+  "backgroundColor": "#0d1220",
+  "android": { "allowMixedContent": false }
+}
